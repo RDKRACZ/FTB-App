@@ -1,0 +1,8 @@
+
+windows/desktop/node_modules
+launcher.log*
+*.opk
+node_modules
+jdk-*
+notification.sh
+launcher*.jar
